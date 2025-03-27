@@ -1,0 +1,40 @@
+{
+    "programming": {
+        "profile": "Yogeswara adalah seorang pengembang mobile dan web dengan pengetahuan mendalam dalam berbagai bahasa dan teknologi pemrograman.",
+        "languages": [
+            "JavaScript: Bahasa pemrograman populer untuk pengembangan web, terutama digunakan untuk membuat aplikasi interaktif di sisi pengguna (frontend) dan server (backend) dengan Node.js.",
+            "HTML & CSS: Bahasa markup dan stylesheet untuk merancang dan mengatur tampilan halaman web.",
+            "Dart & Flutter: Digunakan untuk pengembangan aplikasi mobile, memungkinkan pengembangan aplikasi untuk Android dan iOS dengan satu codebase.",
+            "PHP & Laravel: PHP adalah bahasa pemrograman untuk pengembangan backend, sedangkan Laravel adalah framework populer untuk PHP yang memudahkan pembuatan aplikasi web yang kompleks.",
+            "React: Library JavaScript untuk membangun antarmuka pengguna yang dinamis dan interaktif di web."
+        ],
+        "tools_and_frameworks": {
+            "Firebase": "Platform pengembangan aplikasi yang menyediakan backend sebagai layanan, termasuk hosting, autentikasi, dan database.",
+            "Tailwind CSS": "Framework CSS yang memungkinkan pembuatan desain web yang cepat dengan utility-first CSS.",
+            "React Router": "Library JavaScript untuk navigasi di aplikasi React, memungkinkan pengembang membuat aplikasi web dengan rute yang kompleks.",
+            "Laravel": "Framework PHP untuk pengembangan backend, mendukung MVC dan memudahkan pembuatan aplikasi web yang aman dan performa tinggi."
+        },
+        "terms": [
+            "Frontend: Bagian dari aplikasi yang langsung berinteraksi dengan pengguna, termasuk HTML, CSS, dan JavaScript.",
+            "Backend: Bagian dari aplikasi yang berinteraksi dengan server, mengelola database, dan logika aplikasi.",
+            "API: Antarmuka yang memungkinkan aplikasi berkomunikasi dengan layanan lain, sering digunakan untuk mengambil dan mengirim data."
+        ]
+    },
+    "programmingKeywords": [
+        "program",
+        "coding",
+        "javascript",
+        "python",
+        "html",
+        "css",
+        "php",
+        "framework",
+        "algorithm",
+        "debug",
+        "syntax",
+        "variable",
+        "yoges",
+        "wara",
+        "yogeswara"
+    ]
+}
