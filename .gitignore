@@ -27,3 +27,5 @@ dist-ssr
 .firebaserc
 .firebase
 firebase.json
+database.rules.json
+apphosting
