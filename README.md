@@ -1,6 +1,3 @@
-Below is your README content formatted properly in Markdown for a GitHub repository. This includes proper headings, code blocks, and lists as per standard README conventions:
-markdown
-
 # My First Portfolio
 
 Welcome to my first portfolio project! This is a personal website built using **React.js** and **Vite**, showcasing my skills, projects, and journey as a developer.
@@ -32,26 +29,34 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone <your-repo-link>
-   Navigate to the project directory:
-   bash
-   cd my-first-portfolio
-   Install dependencies:
-   bash
-   npm install
-   Start the development server:
-   bash
-   npm run dev
-   Open your browser and visit http://localhost:5173 (or the port Vite assigns).
-   Purpose
-   This portfolio is my first step into the world of React development. It’s a space to display my projects, share my learning experience, and connect with others in the tech community.
-   Future Improvements
-   Add more interactive features and animations
-   Integrate a backend for dynamic content
-   Enhance accessibility and SEO
-   Contact
-   Feel free to reach out or check out my work:
-   [Your Name]
-   [Your Email]
-   [Your GitHub/Twitter/LinkedIn] (optional)
    ```
+2. Navigate to the project directory:
+   ```bash
+   cd my-first-portfolio
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+5. Open your browser and visit `http://localhost:5173` (or the port Vite assigns).
 
+## Purpose
+
+This portfolio is my first step into the world of React development. It’s a space to display my projects, share my learning experience, and connect with others in the tech community.
+
+## Future Improvements
+
+- Add more interactive features and animations
+- Integrate a backend for dynamic content
+- Enhance accessibility and SEO
+
+## Contact
+
+Feel free to reach out or check out my work:
+
+- **Yogeswara**
+- **yogeswara97@gmail.com**
