@@ -28,7 +28,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/yogeswara97/portfolio-1-reactjs.git
    ```
 2. Navigate to the project directory:
    ```bash
